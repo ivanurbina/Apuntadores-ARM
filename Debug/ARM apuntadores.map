@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v20.2.7                     
 ******************************************************************************
->> Linked Mon Nov  7 11:42:14 2022
+>> Linked Thu Nov 17 14:49:10 2022
 
 OUTPUT FILE NAME:   <ARM apuntadores.out>
 ENTRY POINT SYMBOL: "_c_int00_noargs"  address: 00000561
